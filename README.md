@@ -33,6 +33,14 @@
 </p>
 
 <br>
+<p align="center">
+<a>
+  [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&theme=radical)](https://github.com/jonathanJSM)
+</a>
+</p>
+</br>
+
+<br>
 
 <p align="center">
   <a>
