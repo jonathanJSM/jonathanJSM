@@ -40,6 +40,13 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/jonathanJSM">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&theme=radical" />
+  </a>
+</div>
+
+
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 <br/>
