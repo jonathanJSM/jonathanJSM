@@ -79,32 +79,13 @@
 
 #
 
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="40" width="40" src="icons/nodejs/nodejs-original.svg"></code>
-<code><img height="40" width="40" src="icons/npm/npm-original-wordmark.svg"></code>
-<code><img height="40" width="40" src="icons/jquery/jquery-original-wordmark.svg"></code>
-<code><img height="40" width="40" src="icons/netlify/netlify.png"></code>
-<code><img height="40" width="40" src="icons/heroku/heroku-plain-wordmark.svg"></code>
-<code><img height="40" width="40" src="icons/tomcat/tomcat-original-wordmark.svg"></code>
-<code><img height="40" width="40" src="icons/wordpress/wordpress-original.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="icons/linux/linux-original.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="icons/google/google-original.svg"></code>
-<code><img height="40" width="40" src="icons/pycharm/pycharm-original.svg"></code>
-<code><img height="40" width="40" src="icons/vscode/vscode-original.svg"></code>
-<code><img height="40" width="40" src="icons/shop.png"></code>
 <br/>
 
-<!-- ![](https://github.com/Mastermindx33/Mastermindx33/blob/main/github-contribution-grid-snake.svg) -->
 <br>
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlesslinJerishR&show_icons=true&line_height=20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&line_height=20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 </p>
 
@@ -118,4 +99,4 @@
 
 <br>
 
-**[ Developer :  Blesslin Jerish R ]**
+**[ Developer :  jonathanJSM ]**
