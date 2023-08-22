@@ -33,7 +33,9 @@
     </a>
   </div>
   <div style="flex: 1;">
-    [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&theme=radical)](https://github.com/jonathanJSM)
+    <a href="https://github.com/jonathanJSM">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&theme=radical" />
+    </a>
   </div>
 </div>
 
