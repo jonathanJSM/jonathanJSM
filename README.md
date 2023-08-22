@@ -91,7 +91,8 @@
   </a>
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
+![GitHub Contribution Graph](https://github.com/users/jonathanJSM/contributions)
+
 
 
 **Is it a Jock ?**
