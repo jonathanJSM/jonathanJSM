@@ -15,7 +15,7 @@
 - I am the whole IT Department 🥷
 - etho 🎖️🎖️🎖️🎖️ Google + ChatGPT nala polachaen sir 🐔
 - can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
-- LeetCode, hackerrank, GeekforGeeks is my Mosque, Church, Temple 🔥
+- LeetCode, hackerrank, GeekforGeeks is my PlayGround 🔥
 
 <br>
 <p align="center">
