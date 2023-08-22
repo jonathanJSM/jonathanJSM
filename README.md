@@ -26,18 +26,11 @@
 <p align="center"><b>[ Leaderboards ]</b></p>
 <br>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <a>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanJSM&icons=true&theme=chartreuse-dark" />
-    </a>
-  </div>
-  <div style="flex: 1;">
-    <a href="https://github.com/jonathanJSM">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&theme=radical" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanJSM&icons=true&theme=chartreuse-dark" />
+  </a>
+</p>
 
 <br>
 
@@ -56,13 +49,37 @@
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <!-- ... (other tech stack icons) ... -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 
 #
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/call_me_jsm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -73,9 +90,16 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<br>
+
+<br/>
 
 <br>
+
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&line_height=20&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  </a>
+</p>
 
 **Is it a Jock ?**
 
