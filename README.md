@@ -39,7 +39,9 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanJSM&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
+</br>
 
+<br>
 <div align="center">
   <a href="https://github.com/jonathanJSM">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&theme=radical" />
