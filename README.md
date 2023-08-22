@@ -91,11 +91,7 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="#">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanJSM&theme=chartreuse-dark" />
-  </a>
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
 
 
 **Is it a Jock ?**
