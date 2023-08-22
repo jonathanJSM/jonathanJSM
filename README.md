@@ -26,7 +26,7 @@
 <p align="center"><b>[ Leaderboards ]</b></p>
 <br>
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <a>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanJSM&icons=true&theme=chartreuse-dark" />
@@ -62,7 +62,7 @@
 
 #
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/call_me_jsm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
