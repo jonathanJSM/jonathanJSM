@@ -26,15 +26,16 @@
 <p align="center"><b>[ Leaderboards ]</b></p>
 <br>
 
-<p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanJSM&icons=true&theme=chartreuse-dark" />
-  </a>
-</p>
-
-<br>
-
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&theme=radical)](https://github.com/jonathanJSM)
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div>
+    <a>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanJSM&icons=true&theme=chartreuse-dark" />
+    </a>
+  </div>
+  <div>
+    [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&theme=radical)](https://github.com/jonathanJSM)
+  </div>
+</div>
 
 <br>
 
@@ -71,7 +72,6 @@
   </a>
 </div>
 <br>
-
 
 <br>
 
