@@ -91,7 +91,13 @@
   </a>
 </div>
 
-![GitHub Contribution Graph](https://github.com/users/jonathanJSM/contributions)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=jonathanJSM)](https://github.com/jonathanJSM)
+<br>
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=jonathanJSM&show_icons=true&theme=radical)](https://github.com/jonathanJSM)
+<br>
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jonathanJSM&bg_color=ffffff&color=000000&line=000000&point=00ff00)](https://github.com/jonathanJSM)
+<br>
+
 
 
 
