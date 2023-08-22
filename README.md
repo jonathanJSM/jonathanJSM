@@ -26,7 +26,7 @@
 <p align="center"><b>[ Leaderboards ]</b></p>
 <br>
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex;">
   <div style="flex: 1;">
     <a>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanJSM&icons=true&theme=chartreuse-dark" />
