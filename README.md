@@ -13,9 +13,9 @@
 - I am not in the Team,I am the Team 🌱
 - Frontend or Backend ? 📀
 - I am the whole IT Department 🥷
-- etho 🎖️🎖️🎖️🎖️ Google + ChatGPT nala polachaen sir 🐔
+- Google, Stack overflow, ChatGPT are my perfect friends
 - can you hash MD5 256 Algorithmic Ciphers ? Yeet ^
-- LeetCode, hackerrank, GeekforGeeks is my PlayGround 🔥
+- Hackerrank, GeekforGeeks,Freecode camp is my PlayGround 🔥
 
 <br>
 <p align="center">
